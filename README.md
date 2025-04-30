@@ -4,20 +4,35 @@ This guide explains the steps of Software Quality Assurance (SQA) testing in an 
 **SQA Testing Process Flow (Single Line Diagram)**
 
 Requirements Analysis
-  \n      ↓
-    \n Test Planning
-       \n   ↓
-   \n Test Case Design
+
+       ↓
+       
+  Test Planning
+  
+       ↓
+       
+  Test Case Design
+  
         ↓
- \n Test Environment Setup
+        
+  Test Environment Setup
+  
         ↓
-   Test Execution
+        
+  Test Execution
+  
         ↓
- Defect Reporting & Tracking
+        
+Defect Reporting & Tracking
+
         ↓
-     Test Closure
+        
+  Test Closure
+  
         ↓
+        
 Continuous Improvement
+
 
 
 **Step-by-Step Description**
