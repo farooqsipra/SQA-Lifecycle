@@ -4,7 +4,7 @@ This guide explains the steps of Software Quality Assurance (SQA) testing in an 
 **SQA Testing Process Flow (Single Line Diagram)**
 
 Requirements Analysis
-        ↓
+  /n      ↓
    Test Planning
         ↓
   Test Case Design
