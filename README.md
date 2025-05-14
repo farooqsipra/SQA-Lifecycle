@@ -85,7 +85,7 @@ Log defects with details (steps to reproduce, severity, screenshots)
 
 Track defects until closure
 
-**SQA 7. Test Closure**
+**7. Test Closure**
 
 Confirm all planned testing is complete
 
